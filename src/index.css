@@ -1,0 +1,21 @@
+.keypad {
+   
+    display:inline-block;
+    width: 100%;
+    justify-content: space-between;
+    
+
+}
+.screen {
+  height: 8vh;
+  color:black;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border-radius: 10px;
+  margin: 10px;
+  font-size: 24px;
+}
